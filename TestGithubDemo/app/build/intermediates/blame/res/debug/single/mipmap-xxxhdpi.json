@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/blankii/Documents/GitHub/testGithub/TestGithubDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/blankii/Documents/GitHub/testGithub/TestGithubDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/blankii/Documents/GitHub/testGithub/TestGithubDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/blankii/Documents/GitHub/testGithub/TestGithubDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

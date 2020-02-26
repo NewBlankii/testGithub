@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/blankii/Documents/GitHub/testGithub/TestGithubDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/blankii/.android/build-cache/28253e4545b93edcd21b994d1a9d5dc358279da1/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/blankii/Documents/GitHub/testGithub/TestGithubDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/blankii/.android/build-cache/28253e4545b93edcd21b994d1a9d5dc358279da1/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

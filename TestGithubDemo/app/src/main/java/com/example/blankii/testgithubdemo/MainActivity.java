@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //123
-       // 你安抚违法
-        //33
-        //444
+        你安抚违法
     }
 }
